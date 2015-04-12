@@ -11,11 +11,11 @@
     "build": "ember build",
     "test": "ember test"
   },
-  "repository": "",
+  "repository": "https://github.com/noomerikal/ember-packery",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "noomerikal",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.2",
@@ -33,7 +33,10 @@
     "ember-disable-prototype-extensions": "^1.0.0"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "packery",
+    "grid",
+    "layout"
   ],
   "dependencies": {
     "ember-cli-babel": "^4.0.0"
